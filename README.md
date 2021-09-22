@@ -1,2 +1,1 @@
-# code-of-conduct
-Code of conduct for the Conan organization
+# Code of conduct for the Conan public events 
